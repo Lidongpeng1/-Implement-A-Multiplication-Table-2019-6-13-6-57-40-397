@@ -1,0 +1,6 @@
+given I have two numbers:2,4
+when I creat Multipy Table Multipytable
+then I should get the Multipy table such as
+2*2=4
+2*3=6  3*3=9
+2*4=8  3*4=12  4*4=12
